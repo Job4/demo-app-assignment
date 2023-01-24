@@ -24,7 +24,9 @@ Your app should be based on :
     - The [toolchain](https://beta.reactjs.org/learn/start-a-new-react-project) of your choice
     - [Function components](https://beta.reactjs.org/learn/start-a-new-react-project) describing the required UI
     
-Use a hosted git-based versionning system (like [GitHub](https://github.com/)). Once you are done with your test, we would like to heave read-access to the repository.
+Use a hosted git-based versionning system (like [GitHub](https://github.com/)) : 
+- Once you are done with your test, we would like to heave read-access to the repository.
+- Build your project in a [monorepo](https://danielpecos.com/assets/2020/02/monorepos.png)
 
 ## :telescope: Tips for a successful demo-app
 
