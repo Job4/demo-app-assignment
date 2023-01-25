@@ -22,7 +22,7 @@ Your app should be based on :
     - A SQL-based database, interfaced with Nest using [TypeORM](https://docs.nestjs.com/techniques/database)
   - A [React](https://reactjs.org/) frontend featuring
     - The [toolchain](https://beta.reactjs.org/learn/start-a-new-react-project) of your choice
-    - [Function components](https://beta.reactjs.org/learn/start-a-new-react-project) describing the required UI
+    - [Function components](https://reactjs.org/docs/components-and-props.html#function-and-class-components) describing the required UI
     
 Use a hosted git-based versionning system (like [GitHub](https://github.com/)) : 
 - Once you are done with your test, we would like to heave read-access to the repository.
